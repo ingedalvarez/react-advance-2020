@@ -1,10 +1,10 @@
 import React from 'react';
-import SetUp from './tutorial/1-useState/setup/1-error-example'
+import SetUp from './tutorial/1-useState/setup/2-useState-basics';
 
 function App() {
   return (
     <div className="container">
-      <SetUp/>
+      <SetUp />
     </div>
   );
 }

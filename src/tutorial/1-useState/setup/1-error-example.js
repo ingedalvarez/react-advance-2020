@@ -2,6 +2,8 @@ import React from 'react';
 
 const ErrorExample = () => {
   let title = 'random title';
+  console.log(title);
+
   const handleClick = () => {
     title = 'hello people';
     console.log(title);
